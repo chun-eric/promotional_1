@@ -6,6 +6,20 @@
 <img src="https://i.ibb.co/KDGrSZm/logo-no-background.png" alt="logo-no-background" border="0">
 
 
+// color
+#322F32
+
+// icons
+<img src="https://i.ibb.co/mzP2f2d/icons8-instagram-30-1.png" alt="icons8-instagram-30-1" border="0">
+
+<img src="https://i.ibb.co/hy4517p/icons8-linkedin-circled-30-1.png" alt="icons8-linkedin-circled-30-1" border="0">
+
+<img src="https://i.ibb.co/cX7pp94/icons8-twitter-30-1.png" alt="icons8-twitter-30-1" border="0">
+
+<img src="https://i.ibb.co/6rpWfxh/icons8-facebook-30.png" alt="icons8-facebook-30" border="0">
+
+<img src="https://i.ibb.co/D4rsxf2/icons8-youtube-30-1.png" alt="icons8-youtube-30-1" border="0">
+
 
 
 
